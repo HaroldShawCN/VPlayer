@@ -1,10 +1,10 @@
 {
-  "name": "splayer",
+  "name": "vplayer",
   "version": "0.8.0",
   "private": true,
-  "author": "imsyy",
-  "home": "https://imsyy.top",
-  "github": "https://github.com/imsyy/SPlayer",
+  "author": "HaroldShaw",
+  "home": "https://haroldshaw.cn",
+  "github": "https://github.com/HaroldShawCN/VPlayer",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
